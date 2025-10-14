@@ -1,0 +1,14 @@
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+venv/
+.env/
+
+# Arquivos de log e cache
+*.log
+*.sqlite3
+
+# Configurações do VS Code
+.vscode/
