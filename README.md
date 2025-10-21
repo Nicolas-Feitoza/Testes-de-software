@@ -1,6 +1,6 @@
 # 📘 Testes de Software – Atividades Semanais
 
-Este repositório reúne as atividades desenvolvidas nas semanas 09 e 10 da disciplina de Introdução a Testes de Software. Cada pasta contém os arquivos de código, testes automatizados e instruções específicas.
+Este repositório reúne as atividades desenvolvidas nas semanas 09, 10 e 11 da disciplina de Introdução a Testes de Software. Cada pasta contém os arquivos de código, testes automatizados e instruções específicas.
 
 ## 📚 Atividades
 
@@ -10,10 +10,15 @@ Este repositório reúne as atividades desenvolvidas nas semanas 09 e 10 da disc
 - [Semana 10 – Conversão de números romanos](semana10/README.md)  
   Função `converte()` para transformar números romanos em inteiros, com testes unitários e correção de erro lógico.
 
+- [Semana 11 - Integração: Testes de Integração](semana11/README.md)
+  Simulação de persistência de dados e MongoDB utilizando mongomock como stub. Testes de integração para as classes Aluno e Turma.
+
 ## 🛠️ Requisitos
 
 - Python 3.7 ou superior
-- Nenhuma biblioteca externa necessária
+- Bibliotecas externas:
+  * pymongo
+  * mongomock
 - Pode ser executado diretamente no GitHub Codespaces
 
 ## 🚀 Como usar no GitHub Codespaces
