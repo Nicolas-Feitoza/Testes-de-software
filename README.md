@@ -1,6 +1,6 @@
 # 📘 Testes de Software – Atividades Semanais
 
-Este repositório reúne as atividades desenvolvidas nas semanas 09, 10 e 11 da disciplina de Introdução a Testes de Software. Cada pasta contém os arquivos de código, testes automatizados e instruções específicas.
+Este repositório reúne as atividades desenvolvidas nas semanas 09, 10, 11 e 13 da disciplina de Introdução a Testes de Software. Cada pasta contém os arquivos de código, testes automatizados e instruções específicas.
 
 ## 📚 Atividades
 
@@ -12,6 +12,9 @@ Este repositório reúne as atividades desenvolvidas nas semanas 09, 10 e 11 da 
 
 - [Semana 11 - Integração: Testes de Integração](semana11/README.md)
   Simulação de persistência de dados e MongoDB utilizando mongomock como stub. Testes de integração para as classes Aluno e Turma.
+
+- [Semana 13 – Integração Contínua](semana13/README.md)
+  Implementação de workflow **GitHub Actions** para CI/CD, com execução automática de testes unitários a cada push e pull request.
 
 ## 🛠️ Requisitos
 
@@ -27,5 +30,9 @@ Este repositório reúne as atividades desenvolvidas nas semanas 09, 10 e 11 da 
 2. Navegue até a pasta da semana desejada
 3. Execute `main.py` para ver o funcionamento
 4. Execute `testes.py` para rodar os testes automatizados
+
+## 🔄 Integração Contínua (Semana 13)
+
+Os testes são executados automaticamente via GitHub Actions a cada push ou pull request. O workflow valida toda a suite de testes do projeto.
 
 ---
